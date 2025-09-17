@@ -1,4 +1,4 @@
-# Data-603-Final-Project
+# Python Powered Stock Market Analysis
 Python Powered Stock Market Analysis
 
 Tools required : MongoDB ATLAS, Apache Spark, Python, Tableau.
